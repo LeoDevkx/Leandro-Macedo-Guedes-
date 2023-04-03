@@ -1,2 +1,2 @@
-# Leandro-Macedo-Guedes-
+# Iniciou o Mestrado em Ciência de Materiais em 2023 pela UnB (Universidade de Brasília). Graduou-se em Ciências Naturais (Licenciatura) pela UnB no ano de 2022. É professor de Ciências Naturais. Trabalha na área de manutenção de computadores desde 2009 e de notebook desde 2021. Gosta de aprender novos idiomas. Atualmente está estudando eletrônica, manutenção em smartphones e aprimorando as habilidades em programação e pretende trabalhar com telecomunicações. 
 🎯 Front-End Developer Starter
